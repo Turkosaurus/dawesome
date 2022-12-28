@@ -45,4 +45,4 @@ The timeline is bifurcated left (past) and right (future) of the center (global 
 1. Saved measure(s)
 
 ## Sections
-Sections A, B, C, etc. can be created from past timelines
+Sections A, B, C, etc. can be chained together from past timelines.
